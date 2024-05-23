@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import Nike from "../assets/projects/nike.png";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import { BiMap } from "react-icons/bi";
 
 export const HERO_CONTENT = `👋 Aspiring Front-End Developer with Backend Curiosity: With a passion for crafting delightful user experiences, I’ve honed my skills in React, Next.js, and CSS. My journey into backend development includes tinkering with Express.js, MySQL, PostgreSQL, and MongoDB. I’m eager to learn, collaborate, and bridge the gap between frontend magic and backend wizardry. Let’s build amazing things together! 🚀.`;
 
@@ -56,7 +57,8 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Toli Chowki,Hyderabad 500008, Telangana. ",
+  address: "Toli Chowki,Hyderabad 500008, ",
+  state: "Telangana, India.",
   phoneNo: "+91 8329213334 ",
   email: "khajaqutbuddin123@gmail.com",
 };
