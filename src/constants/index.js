@@ -57,7 +57,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Toli Chowki,Hyderabad 500008, ",
+  address: "Hyderabad, ",
   state: "Telangana, India.",
   phoneNo: "+91 8329213334 ",
   email: "khajaqutbuddin123@gmail.com",
