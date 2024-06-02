@@ -39,6 +39,7 @@ export const PROJECTS = [
     description:
       "I created a responsive frontend website for Nike, focusing on product listing and other frontend features. Using HTML, CSS, and JavaScript frameworks like React js, I designed and implemented a visually appealing user interface that ensures a seamless experience across all devices. ",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    link: "https://nike-red-ten.vercel.app/"
   },
   {
     title: "Portfolio Website",

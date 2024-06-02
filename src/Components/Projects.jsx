@@ -16,8 +16,9 @@ const Projects = () => {
                      whileInView={{opacity:1, x:0}}
                      initial={{opacity:0 , x:-100}}
                      transition={{duration:1.5, delay:0.5}}
+
                     className="w-full lg:w-1/4">
-                     <img  src={pro.image} className=' rounded-md h-28 text-sm mb-6  text-neutral-400'/> 
+                    <a href={pro.link} target="_blank" rel="noopener noreferrer"> <img  src={pro.image} className=' rounded-md h-28 text-sm mb-6  text-neutral-400'/> </a> 
                     </motion.div>
                     <motion.div
                       whileInView={{opacity:1, x:0}}
