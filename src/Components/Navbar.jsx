@@ -7,7 +7,7 @@ const Navbar = () => {
     <>
         <nav className=' py-2 mb-20 items-center justify-between text-white flex flex-1  '>
          <div className=' flex-shrink-0 font-bold text-4xl m-2 justify-start'> 
-         <a href="./"> <h1>KQS</h1></a>
+{/*          <a href="./"> <h1>KQS</h1></a> */}
          </div>
       
         <div className=' flex px-2 mx-3 gap-5  sm:gap-16  sm:text-xl  '> 
